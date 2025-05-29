@@ -1,0 +1,231 @@
+{
+  "results": [
+    {
+      "fsq_id": "5f6f6dc999b0676341c2edd0",
+      "categories": [
+        {
+          "id": 13039,
+          "name": "Deli",
+          "short_name": "Deli",
+          "plural_name": "Delis",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/food/deli_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "LikelyOpen",
+      "distance": 27,
+      "geocodes": {
+        "drop_off": {
+          "latitude": 43.685932,
+          "longitude": -79.376555
+        },
+        "main": {
+          "latitude": 43.68606,
+          "longitude": -79.376582
+        },
+        "roof": {
+          "latitude": 43.68606,
+          "longitude": -79.376582
+        }
+      },
+      "link": "/v3/places/5f6f6dc999b0676341c2edd0",
+      "location": {
+        "address": "408 Summerhill Ave",
+        "country": "CA",
+        "cross_street": "",
+        "formatted_address": "408 Summerhill Ave, Toronto ON M4W 2E4",
+        "locality": "Toronto",
+        "postcode": "M4W 2E4",
+        "region": "ON"
+      },
+      "name": "Rosedale's Finest",
+      "related_places": {},
+      "timezone": "America/Toronto"
+    },
+    {
+      "fsq_id": "5f710453c2dbe370d739275e",
+      "categories": [
+        {
+          "id": 13002,
+          "name": "Bakery",
+          "short_name": "Bakery",
+          "plural_name": "Bakeries",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/food/bakery_",
+            "suffix": ".png"
+          }
+        },
+        {
+          "id": 13034,
+          "name": "Caf\u00e9",
+          "short_name": "Caf\u00e9",
+          "plural_name": "Caf\u00e9s",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/food/cafe_",
+            "suffix": ".png"
+          }
+        },
+        {
+          "id": 13065,
+          "name": "Restaurant",
+          "short_name": "Restaurant",
+          "plural_name": "Restaurants",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/food/default_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "LikelyOpen",
+      "distance": 38,
+      "geocodes": {
+        "drop_off": {
+          "latitude": 43.686047,
+          "longitude": -79.37601
+        },
+        "main": {
+          "latitude": 43.686211,
+          "longitude": -79.376045
+        },
+        "roof": {
+          "latitude": 43.686211,
+          "longitude": -79.376045
+        }
+      },
+      "link": "/v3/places/5f710453c2dbe370d739275e",
+      "location": {
+        "address": "420 Summerhill Ave",
+        "country": "CA",
+        "cross_street": "",
+        "formatted_address": "420 Summerhill Ave, Toronto ON M4W 2E4",
+        "locality": "Toronto",
+        "postcode": "M4W 2E4",
+        "region": "ON"
+      },
+      "name": "Dolce Bakery",
+      "related_places": {},
+      "timezone": "America/Toronto"
+    },
+    {
+      "fsq_id": "4c005620ad46c9b6e9568f66",
+      "categories": [
+        {
+          "id": 13026,
+          "name": "BBQ Joint",
+          "short_name": "BBQ",
+          "plural_name": "BBQ Joints",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/food/bbqalt_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "LikelyOpen",
+      "distance": 876,
+      "geocodes": {
+        "drop_off": {
+          "latitude": 43.69315,
+          "longitude": -79.372462
+        },
+        "main": {
+          "latitude": 43.693319,
+          "longitude": -79.372496
+        },
+        "roof": {
+          "latitude": 43.693319,
+          "longitude": -79.372496
+        }
+      },
+      "link": "/v3/places/4c005620ad46c9b6e9568f66",
+      "location": {
+        "address": "56 Bennington Heights Dr",
+        "country": "CA",
+        "formatted_address": "56 Bennington Heights Dr, Toronto ON M4G 1A9",
+        "locality": "Toronto",
+        "postcode": "M4G 1A9",
+        "region": "ON"
+      },
+      "name": "Kirkwood's Rib Joint",
+      "related_places": {},
+      "timezone": "America/Toronto"
+    },
+    {
+      "fsq_id": "396cd48d15ba4cac949057c4",
+      "categories": [
+        {
+          "id": 12101,
+          "name": "Church",
+          "short_name": "Church",
+          "plural_name": "Churches",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/building/religious_church_",
+            "suffix": ".png"
+          }
+        },
+        {
+          "id": 13039,
+          "name": "Deli",
+          "short_name": "Deli",
+          "plural_name": "Delis",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/food/deli_",
+            "suffix": ".png"
+          }
+        },
+        {
+          "id": 17000,
+          "name": "Retail",
+          "short_name": "Retail",
+          "plural_name": "Retail",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/shops/default_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "LikelyOpen",
+      "distance": 381,
+      "geocodes": {
+        "drop_off": {
+          "latitude": 43.684442,
+          "longitude": -79.372302
+        },
+        "main": {
+          "latitude": 43.684187,
+          "longitude": -79.372214
+        },
+        "roof": {
+          "latitude": 43.684187,
+          "longitude": -79.372214
+        }
+      },
+      "link": "/v3/places/396cd48d15ba4cac949057c4",
+      "location": {
+        "address": "159 Roxborough Dr",
+        "country": "CA",
+        "formatted_address": "159 Roxborough Dr, Toronto ON",
+        "locality": "Toronto",
+        "region": "ON"
+      },
+      "name": "Holly Berry Fair",
+      "related_places": {}
+    }
+  ],
+  "context": {
+    "geo_bounds": {
+      "circle": {
+        "center": {
+          "latitude": 43.685924,
+          "longitude": -79.376304
+        },
+        "radius": 1000
+      }
+    }
+  }
+}
